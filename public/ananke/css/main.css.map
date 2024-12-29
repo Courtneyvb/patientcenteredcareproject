@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Applications/Sync/contract_work/HCUG/website/quickstart",
+	"sourceRoot": "/Applications/Sync/contract_work/HCUG/website/patientcenteredcareproject",
 	"sources": [
 		"ananke/css/main.css"
 	],

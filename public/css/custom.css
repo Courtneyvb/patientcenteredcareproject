@@ -1,0 +1,40 @@
+body {
+    background-color: yellow;
+}
+
+.content {
+    max-width: 80% !important; /* Adjusts the width of the content area */
+    margin: 0 auto !important; /* Centers the content */
+    text-align: left !important; /* Ensures text is left-justified */
+}
+
+/* Optional: Reduce padding for a more spacious layout */
+.content p {
+    padding: 0;
+}
+
+body .article {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 20px;
+    text-align: left !important; /* Ensures text is left-justified */
+}
+
+.article {
+    max-width: 100% !important; /* Allow it to span the full width of the page */
+    width: 100% !important;     /* Ensure it occupies 100% of the available width */
+    margin: 0 !important;       /* Remove default margins */
+    padding: 0 20px;            /* Optional: Add padding to prevent text from touching the edges */
+    box-sizing: border-box;     /* Ensure padding doesn't increase the element's width */
+    text-align: left !important; /* Ensures text is left-justified */
+}
+
+
+main {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,7 +1,6 @@
 ---
 title: 'About'
 description: 'Find out about our project'
-draft: true
 type: page
 ---
 # About the Patient Centered Care Project

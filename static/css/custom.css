@@ -38,3 +38,5 @@ main {
     padding: 0;
     box-sizing: border-box;
 }
+
+.footer-right {text-align: right;}

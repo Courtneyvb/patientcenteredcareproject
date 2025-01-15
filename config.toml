@@ -29,7 +29,7 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-custom_css = ["custom.css"]
+customCSS = ["custom.css"]
 text_color = "black"
 author = ""
 favicon = ""

@@ -2,9 +2,6 @@
 title: 'Results'
 description: 
 type: page
-theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/results-header.png'
 ---
 
 # Physician Perspective
@@ -27,5 +24,5 @@ As part of the *Patient Centered* Care Project, the Medical Office Assistant is 
 
 
 # Patient Perspective
-At the core of the project is empowering patients to be champions of their own health care journies by receiving the highest quality of care. We designed a questionnaire collaboratively with patient partners to ensure that the inclusion of both the human and AI scribe did not negatively impact the patient's experience. Overall patient experience was also assessed to ensure that the changes made as part of the project were helping the patient as well as the medical team. 99% of patients did not find the inclusion of the scribe to be intrusive or interruptive. In fact, most patients reported the use of the scribe as one of the highlights of the project, describing the consequent improved physician attention as making a meaningful improvement to their appointment. 
-{{< figure src="/patient_experience.png" title="Figure 4. Responses from patients on their overall experience both prior to (top) and following (bottom) project implementation." >}}
+At the core of the project is empowering patients to be champions of their own health care journeys by receiving the highest quality of care. We designed a questionnaire collaboratively with patient partners to ensure that the inclusion of both the human and AI scribe did not negatively impact the patient's experience. Overall patient experience was also assessed to ensure that the changes made as part of the project were helping the patient as well as the medical team. 99% of patients did not find the inclusion of the scribe to be intrusive or interruptive. In fact, most patients reported the use of the scribe as one of the highlights of the project, describing the consequent improved physician attention as making a meaningful improvement to their appointment. 
+{{< figure src="/patient_experience_1.png" title="Figure 4. Responses from patients on their overall experience both prior to (top) and following (bottom) project implementation." >}}

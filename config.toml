@@ -28,9 +28,6 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
-[build]
-  writeCNAME = true
-
 [params]
 customCSS = ["custom.css"]
 text_color = "black"

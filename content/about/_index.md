@@ -2,11 +2,12 @@
 title: 'About'
 description: 'Find out about our project'
 type: page
+theme_version: '2.8.2'
 ---
 # About the Patient Centered Care Project
 The *Patient Centered Care Project* seeks to alleviate the administrative burden on physicians while fostering more focused, personalized care for patients and empowering them to take an active role in their health care journeys. This is achieved through a multifaceted approach, supported by a collaborative multidisciplinary team, outlined below.
 
-{{< figure src="/group.png" title="" >}}
+{{< figure src="/group.jpg" title="" >}}
 
 ## Aspects of the Project
 ### *Office Redesign*

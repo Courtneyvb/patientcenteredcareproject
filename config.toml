@@ -1,5 +1,5 @@
 title = "Test Hugo"
-baseURL = "https://courtneyvb.github.io/patientcenteredcareproject/"
+baseURL = "https://www.patientcenteredcareproject.com"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"

@@ -29,16 +29,22 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-custom_css = ["custom.css"]
+custom_css = ["/custom.css"]
 text_color = "black"
 author = ""
 favicon = ""
 site_logo = "Shuswap-Cardiac-Society-logo.jpg"
+site_logo_width = "600px"
 description = "More Patients. Less Paperwork"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 #background_color_class = "bg-black"
 cover_dimming_class = "bg-black-50"
 recent_posts_number = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [[params.ananke_socials]]
 name = "twitter"
